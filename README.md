@@ -1,5 +1,4 @@
-bash
-cat > /mnt/user-data/outputs/README.md << 'READMEEOF'
+
 # B2B SaaS LinkedIn Organic Content Strategy — Research Repository
 
 **Researcher:** Santi (santiiii9)
