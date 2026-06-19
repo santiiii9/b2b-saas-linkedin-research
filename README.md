@@ -2,11 +2,8 @@
 # B2B SaaS LinkedIn Organic Content Strategy — Research Repository
 
 **Researcher:** Santi (santiiii9)
--
 **Topic:** LinkedIn Organic Content Strategy for B2B SaaS
--
 **Assignment:** 100Hires Research Project — Alex Kravets, CEO
--
 **Date Completed:** June 19, 2026
 
 ---
