@@ -1,6 +1,6 @@
 # The Authority First LinkedIn Content Framework for 2026 — YouTube Transcript Summary
 
-**Creator:** Unknown (LinkedIn Growth Strategist, 160K+ followers)
+**Creator:** [Pierre Herubel](https://www.linkedin.com/in/pierre-herubel-540b3949) (Founder of ContentPath)
 **Date Collected:** June 19, 2026
 
 ---
