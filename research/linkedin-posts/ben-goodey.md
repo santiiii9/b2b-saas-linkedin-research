@@ -1,6 +1,6 @@
 # Ben Goodey — LinkedIn Research Summary
 
-**Profile:** Ben Goodey (https://www.linkedin.com/in/benjamingoodey)— Founder of Spicy Margarita. An expert in content strategy for B2B SaaS companies.
+**Profile:** [Ben Goodey](https://www.linkedin.com/in/benjamingoodey) — Founder of Spicy Margarita. An expert in content strategy for B2B SaaS companies.
 **Research Focus:** AI-First Content Optimization (ASO), AI Citation Frameworks, and LinkedIn Organic Growth.
 **Date Collected:** June 19, 2026
 **Note:** Ben focuses on how to write content that AI tools (ChatGPT, Perplexity) prioritize as authoritative sources.
