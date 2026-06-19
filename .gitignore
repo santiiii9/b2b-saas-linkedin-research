@@ -1,0 +1,10 @@
+# Ignore dependency folders
+node_modules/
+
+# Ignore local environment variables (where your API keys live)
+.env
+
+# Ignore system/editor files
+.DS_Store
+.vscode/
+.idea/
