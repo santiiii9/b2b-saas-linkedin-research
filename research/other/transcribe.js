@@ -2,7 +2,7 @@
 const { Supadata } = require('@supadata/js');
 
 const supadata = new Supadata({
-  apiKey: 'sd_4f0b27f202483bb351b915ea0cdc0178', // Your API key
+  apiKey: process.env.SUPADATA_API_KEY, // Your API key
 });
 
 async function runTranscription(videoUrl) {
