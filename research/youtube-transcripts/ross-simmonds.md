@@ -1,6 +1,6 @@
 # How to Generate B2B Leads on LinkedIn Without Cold Spam — YouTube Transcript Summary
 
-**Creator:** [Ross Simmons](https://www.linkedin.com/in/rosssimmonds) Founder & CEO of Foundation Marketing
+**Creator:** [Ross Simmonds](https://www.linkedin.com/in/rosssimmondsc) Founder & CEO of Foundation Marketing
 **Date Collected:** June 19, 2026
 
 ---
